@@ -7,7 +7,7 @@
  
 - 💬 Ask me about **JavaScript, Web dev and Design, Web Systems** 
  
-- 📫 How to reach on [Email](mailto:dansto1000@gmail.com)
+- 📫 Send me and [Email](mailto:dansto1000@gmail.com)
  
 - 📄 Know about my experiences [View my resume](https://ojumbo.netlify.app/assets/resume.pdf) 
  
